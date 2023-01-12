@@ -71,7 +71,7 @@ In this section, you clone a containerized Spring Boot application and test it l
 1. Change directory to the initial project; for example:
 
    ```shell
-   cd azure-spring-boot-samples/azure-appconfiguration-convert-sample-initial
+   cd azure-spring-boot-samples/appconfiguration/azure-spring-cloud-appconfiguration-config/azure-spring-cloud-appconfiguration-config-convert-sample/azure-spring-cloud-appconfiguration-config-convert-sample-initial/
    ```
 
 #### Config the sample
@@ -192,7 +192,7 @@ In this section, you clone a containerized Spring Boot application and test it l
    <dependency>
      <groupId>com.azure.spring</groupId>
      <artifactId>azure-spring-cloud-appconfiguration-config</artifactId>
-     <version>2.8.0</version>
+     <version>2.9.0</version>
    </dependency>
     ```
     
@@ -284,4 +284,3 @@ In this section, you clone a containerized Spring Boot application and test it l
 ## Contributing
 
 <!-- LINKS -->
-
